@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Portfólio</string>
+    <string name="exatas">Ciências Exatas e da Terra</string>
+    <string name="engenharia">Engenharia</string>
+    <string name="multi">Multidisciplinar</string>
+    <string name="home">HOME</string>
+    <string name="lab">"Laboratórios"</string>
+    <string name="projetos">Projetos</string>
+    <string name="sobre">"Sobre"</string>
+    <string-array name="subexatas">
+        <item>
+            Ciências Exatas e da Terra
+        </item>
+        <item>
+            Ciência da Computação
+        </item>
+        <item>
+            Química
+        </item>
+    </string-array>
+    <string name="title_activity_projetos">ProjetosActivity</string>
+</resources>
